@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-typescript-cat-dnd-app/static/js/main.d529d1ef.js",
+    "index.html": "/react-typescript-cat-dnd-app/index.html",
+    "main.d529d1ef.js.map": "/react-typescript-cat-dnd-app/static/js/main.d529d1ef.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d529d1ef.js"
+  ]
+}
