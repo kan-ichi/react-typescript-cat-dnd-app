@@ -1,8 +1,11 @@
 {
+  "homepage": "http://kan-ichi.github.io/react-typescript-cat-dnd-app",
   "name": "react-mui",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -23,6 +26,7 @@
     "@types/react-beautiful-dnd": "^13.1.2",
     "@types/react-copy-to-clipboard": "^5.0.4",
     "@types/react-dom": "^17.0.14",
+    "gh-pages": "^4.0.0",
     "react-scripts": "^5.0.1",
     "typescript": "^4.8.4"
   },
